@@ -2,7 +2,7 @@
 
 Based on [Advanced Tomato Material Theme for OpenWrt](https://github.com/openwrt-develop/luci-theme-atmaterial)
 
-Thanks to [Mrbai98](https://github.com/Mrbai98/luci-theme-atmaterial)** for modification.
+Thanks to [Mrbai98](https://github.com/Mrbai98/luci-theme-atmaterial) for modification.
 
 
 
