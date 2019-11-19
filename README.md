@@ -12,7 +12,7 @@ Thanks to [Mrbai98](https://github.com/Mrbai98/luci-theme-atmaterial) for modifi
 
 # Screenshot
 
-![image](https://raw.githubusercontent.com/SDNGer/luci-theme-atmaterial/master/screenshot/20190818145642.png)
+![image](https://github.com/RainCat1998/luci-theme-atmaterial-color/blob/master/screenshots/20191120003750.png)
 
 # How to use
 
